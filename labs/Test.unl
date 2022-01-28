@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lab name="Test" id="29f33a61-1792-4ab1-bfb0-fdf2c1e1177a" version="1" scripttimeout="300" lock="0">
+  <topology>
+    <nodes>
+      <node id="1" name="VPC" type="vpcs" template="vpcs" image="" ethernet="" delay="0" icon="Desktop.png" config="0" left="704" top="296"/>
+    </nodes>
+  </topology>
+</lab>
